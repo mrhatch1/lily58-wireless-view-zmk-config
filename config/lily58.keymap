@@ -45,7 +45,7 @@
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp KP_CLEAR  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MULTIPLY  &kp KP_MINUS
 &kp F1      &kp F2        &kp F3        &kp F4        &kp F5        &kp F6                          &none         &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_DIVIDE    &kp KP_PLUS
 &kp GRAVE   &kp EXCL      &kp AT        &kp HASH      &kp DOLLAR    &kp PRCNT                       &none         &kp KP_N1        &kp KP_N2        &kp KP_N3        &none            &kp KP_EQUAL
-&trans      &trans        &trans        &trans        &trans        &trans        &trans    &trans  &none         &none            &kp KP_N0        &kp KP_DOT       &none            &kp KP_ENTER
+&trans      &trans        &trans        &trans        &trans        &trans        &trans    &trans  &none         &kp KP_NUMLOCK   &kp KP_N0        &kp KP_DOT       &none            &kp KP_ENTER
                                         &trans        &trans        &trans        &trans    &trans  &trans        &kp BACKSPACE    &kp DEL
             >;
 
